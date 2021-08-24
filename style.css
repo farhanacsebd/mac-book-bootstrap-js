@@ -1,0 +1,16 @@
+/* hover only the text */
+
+.title-hover:hover {
+    color: blue;
+}
+
+/* hover only the button  */
+
+.dark-btn:hover {
+    background-color: rgb(49, 47, 47);
+    color: white;
+}
+
+.color-text {
+    color: rgb(241, 40, 40);
+}
